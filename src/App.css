@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+body{
+  padding: 10em;
+}
+.App button{
+  margin: 1em;
+  float: left;
+}
+
